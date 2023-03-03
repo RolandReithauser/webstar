@@ -352,6 +352,13 @@ table th {
     text-align: right;
 }
 
+.nyoldalnev{
+    font-family: "Starjedi", sans-serif;
+    font-size: 40px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
 .soldalszaz, .voldalszaz{
     font-family: "Poppins-Bold", sans-serif;
     font-size: 24px;
@@ -470,13 +477,6 @@ table th {
     font-size: 16px;
     background-color: #000000;
     border: 1px solid #F7B500;
-}
-
-.nyoldalnev{
-    font-family: "Starjedi", sans-serif;
-    font-size: 40px;
-    color: #FFFFFF;
-    text-align: center;
 }
 
 .hibabelepes {
