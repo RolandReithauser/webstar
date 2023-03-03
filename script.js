@@ -25,7 +25,7 @@ let regexemail = /[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)
 
 //   https://developer.webstar.hu/rest/frontend-felveteli/v2/authentication/
 
-
+/*
 const apiUrl = "https://developer.webstar.hu/rest/frontend-felveteli/v2/characters/";
 
 var xhr = new XMLHttpRequest();
@@ -49,7 +49,7 @@ HEADER PARAMETERS
 Content-Type: application/json
 Applicant-Id: {Turnár Csillától kapott azonosító}
 */
-
+/*
 fetch('https://developer.webstar.hu/rest/frontend-felveteli/v2/characters/', {
     method: 'POST',
     headers: {
@@ -60,4 +60,4 @@ fetch('https://developer.webstar.hu/rest/frontend-felveteli/v2/characters/', {
 })
    .then(response => response.json())
    .then(response => console.log(JSON.stringify(response)))
-
+*/
