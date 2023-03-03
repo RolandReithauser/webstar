@@ -55,6 +55,7 @@ body {
 .navbarfelso {
     border-bottom: 1px solid #FFFFFF;
     padding-bottom: 50px;
+    margin-top: 50px;
 }
 
 .navbaralso {
@@ -456,19 +457,26 @@ table th {
 }
 
 .vissza {
-    width: 30%;
+    width: 20%;
     font-family: "Poppins-Bold", sans-serif;
     font-size: 16px;
     background-color: #F7B500;
 }
 
 .vissza:hover {
-    width: 30%;
+    width: 20%;
     color: #FFFFFF;
     font-family: "Poppins-Bold", sans-serif;
     font-size: 16px;
     background-color: #000000;
     border: 1px solid #F7B500;
+}
+
+.voldalnev{
+    font-family: "Starjedi", sans-serif;
+    font-size: 40px;
+    color: #FFFFFF;
+    text-align: center;
 }
 
 .hibabelepes {
