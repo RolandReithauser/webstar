@@ -5,7 +5,7 @@ document.getElementById("ellenorzes").addEventListener("click", function(){
     
 
     if(jelszo == "s9@:8BpuC]*Q,e,A" && felhasznalonev == "frontend@webstar.hu"){
-        window.location.href = "./karakter.html";
+        window.location.href = "/karakter.html";
     }
     else{
         eredmeny.innerHTML = "Nem megfelelő felhasználónév vagy jelszó!";
