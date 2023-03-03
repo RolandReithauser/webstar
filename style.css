@@ -1,40 +1,40 @@
 @font-face {
     font-family: "Poppins-Black";
-    src: url(/assets/Poppins-Black.ttf) format("truetype");
+    src: url(./assets/Poppins-Black.ttf) format("truetype");
 }
 
 @font-face {
     font-family: "Poppins-Bold";
-    src: url(/assets/Poppins-Bold.ttf) format("truetype");
+    src: url(./assets/Poppins-Bold.ttf) format("truetype");
     font-weight: bold;
 }
 
 @font-face {
     font-family: "Poppins-ExtraBold";
-    src: url(/assets/Poppins-ExtraBold.ttf) format("truetype");
+    src: url(./assets/Poppins-ExtraBold.ttf) format("truetype");
     font-weight: 900;
 }
 
 @font-face {
     font-family: "Poppins-Medium";
-    src: url(/assets/Poppins-Medium.ttf) format("truetype");
+    src: url(./assets/Poppins-Medium.ttf) format("truetype");
     font-weight: 500;
 }
 
 @font-face {
     font-family: "Poppins-Regular";
-    src: url(/assets/Poppins-Regular.ttf) format("truetype");
+    src: url(./assets/Poppins-Regular.ttf) format("truetype");
     font-weight: 400;
 }
 
 @font-face {
     font-family: "Galaxyoutline";
-    src: url(/assets/SfDistantGalaxyAltoutline-e2Bp.ttf) format("truetype");
+    src: url(./assets/SfDistantGalaxyAltoutline-e2Bp.ttf) format("truetype");
 }
 
 @font-face {
     font-family: "Starjedi";
-    src: url(/assets/Starjedi.ttf) format("truetype");
+    src: url(./assets/Starjedi.ttf) format("truetype");
 }
 
 body {
@@ -501,7 +501,7 @@ footer {
 
 @media only screen and (max-width: 599px) {
     body {
-        background-image: url(/assets/bg_1.jpg);
+        background-image: url(./assets/bg_1.jpg);
         background-position: center center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -512,7 +512,7 @@ footer {
 @media only screen and (min-width: 600px) {
     body {
         
-        background-image: url(/assets/bg_1.png);
+        background-image: url(./assets/bg_1.png);
         background-position: center center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -522,7 +522,7 @@ footer {
 
 @media only screen and (min-width: 992px) {
     body {
-        background-image: url(/assets/bg_1@2x.png);
+        background-image: url(./assets/bg_1@2x.png);
         background-position: center center;
         background-size: cover;
         background-repeat: no-repeat;
